@@ -1,19 +1,148 @@
-.banner-principal-decorativo
-  &-1
-    animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: $white
 
+.img-infografica-b__modal__contenido div > *
+  color: $black !important
 
-@keyframes float1
-  0%
-    transform: translateY(20px)
+.cajon.color-primario
+  background-color: #E3F8FB
 
-  100%
-    transform: translateY(0px)
+.cajon.color-secundario
+  background-color: #DDE7F0
+
+.cajon-b.color-acento-contenido:before
+  background-color: #FFF8E2
+  opacity: 1
+
+.bloque-texto-g.color-primario
+  background: linear-gradient(to bottom, #4DD0E1, #8FC4CB)
+
+.img-infografica-b__modal
+  background-color: #C9F9FF
+
+.img-infografica-b__modal__btn-cerrar
+  background-color: #0B5999
+
+.tabs-a.color-primario .tabs-a__tab__selected, .tabs-a.color-primario .tabs-a__tab:hover, .tabs-a.color-primario .tabs-a__tab:active, .tabs-a.color-primario .tabs-a__tab:focus
+  background-color: #C7E9ED
+
+.tabs-a__tab__selected:before
+  border-radius: 20px
+  transform: translate(5px, -50%)
+  background-color: transparent !important
+  background-image: url("../assets/componentes/circle-plus.svg")
+  width: 50px
+  height: 50px
+  top: 55%
+  right: -8%
+
+.tabs-a__tab
+  background-color: #E8E8E8
+
+.BGR01
+  background-color: #D0DEEA
+
+.BG02
+  background-color: #D2F3F8
+
+.BGR03A
+  background-color: $white
+
+.BG04
+  background-color: #E4F8FB
+
+.BG05, .BGR05
+  background-color: #C7E9ED
+
+.BGR05.acordion__activo
+  background-color: #DFF2F5
+
+.BGR06
+  background-color: #FFEBD3
+  box-shadow: 1px 1px 5px #FD9927
+
+.BG07
+  background: linear-gradient(to bottom, $white, #DEE4F0)
+
+.BGR08
+  background-color: #C9F9FF
+
+.BGR09
+  background-color: #DBEDFD
+
+.BGR03A.acordion__activo
+  background-color: #E1F0F2
+  border: transparent
+
+.BGR01, .BGR03A, .BGR05, .BGR06, .BGR08, .BGR09
+  border-radius: 12px
+
+.BGR03A
+  border: 1px solid #F6D6B2
+
+.acordion__accion__btn--b
+  border: 1px solid #FD9927
+
+.acordion__accion__btn--a i, .acordion__accion__btn--b i
+  color: #FD9927
+
+.slyder-a__bullets__item--active
+  background-color: #CD914D !important
+
+.slyder-a__bullets__item
+  background-color: #DCCBB5
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #E8E8E8
+  @media (max-width: $bp-max-xs)
+    width: 40px
+    height: 40px
+  
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    width: 10px
+    height: 10px
+    margin: 0 5px
+  
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-image: url("../assets/componentes/yellow-arrow.svg")
+
+.slyder-a__btn--sigt
+  transform: rotate(0deg) !important
+
+.slyder-a__btn--atrs
+  transform: rotate(180deg) !important
+
+.cajon-end.cajon-b:before
+  right: 0
+  left: 50%
+
+.img-01
+  position: absolute
+  left: 5%
+  @media (max-width: $bp-max-md)
+    left: 0
+
+.img-02
+  position: relative
+  top: -50px
+  @media (max-width: $bp-max-md)
+    top: 0
+  
+.bloque-40 .bloque-texto-g__img
+  width: 40%
+
+.bloque-40 .bloque-texto-g__texto
+  width: 70%
+
+.hg-01
+  height: 176px
+  @media (max-width: $bp-max-xl)
+    height: 200px
+  @media (max-width: $bp-max-lg)
+    height: 200px
+  @media (max-width: $bp-max-md)
+    height: 296px
+  @media (max-width: $bp-max-sm)
+    height: initial
+  

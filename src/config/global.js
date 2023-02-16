@@ -35,26 +35,6 @@ export default {
         numero: '1',
         titulo: 'Planos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Tipo de planos eléctricos',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Clasificación de símbolos',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Nomenclatura en planos',
-            hash: 't_1_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
@@ -62,32 +42,6 @@ export default {
         numero: '2',
         titulo: 'Arquitectura',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Tipo de arquitectura',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Clasificación red eléctrica',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Herramientas eléctricas',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Equipos de redes eléctricas',
-            hash: 't_2_4',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -95,38 +49,6 @@ export default {
         numero: '3',
         titulo: 'Circuitos eléctricos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Cálculos eléctricos',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Normas de seguridad',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Tipo de cableado eléctrico',
-            hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Funcionamiento de tableros eléctricos',
-            hash: 't_3_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.5',
-            titulo: 'Trazado línea eléctrica',
-            hash: 't_3_5',
-          },
-        ],
       },
     ],
     subMenu: [

@@ -7,13 +7,12 @@
         span 1
       h1 Planos
     
-    p Un plano eléctrico es un dibujo de varios esquemas que organizan y define una instalación eléctrica, detallando las características de los materiales y equipos disponibles. Se puede representar en uno o más niveles diferentes. Para representarlos, es posible utilizar diferentes tipos de diseños eléctricos prescritos y estandarizados, en el cual, se entiende como un conjunto de conexiones eléctricas y relaciones correspondientes a través de símbolos de componentes del sistema eléctrico. En la confección de un plano o un esquema se suelen utilizar símbolos y figuras, así como marcas o referencias.
+    p Un plano eléctrico es un dibujo de varios esquemas que organizan y definen una instalación eléctrica, detallando las características de los materiales y equipos disponibles, este se puede representar en uno o en más niveles. Para representarlos, es posible utilizar diferentes tipos de diseños eléctricos prescritos y estandarizados, estos, se entienden como un conjunto de conexiones eléctricas y relaciones correspondientes a través de símbolos de componentes del sistema eléctrico. En la elaboración de un plano o un esquema se suelen utilizar símbolos y figuras, así como marcas o referencias.
 
     separador 
     .row.justify-content-around.mb-4
       .col-lg-7.order-lg-1.order-2
-        #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 1.1 Tipo de planos eléctricos
+        h3(data-aos="fade-right").mb-4 Tipo de planos eléctricos
         .cajon.color-acento-contenido.p-4(data-aos="flip-up")
           p.mb-0 A continuación, se describen los tipos de planos eléctricos:
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
@@ -76,8 +75,7 @@
             img(src="@/assets/curso/tema1/img10.png")
             
     separador 
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.2 Clasificación de símbolos
+    h3(data-aos="fade-right").mb-4 Clasificación de símbolos
 
     .row.justify-content-center.mb-4
       .col-lg-5.order-lg-1.order-2(data-aos="fade-right")
@@ -87,10 +85,9 @@
         img(src="@/assets/curso/tema1/img11.png")
 
     separador 
-    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.3 Nomenclatura en planos 
+    h3(data-aos="fade-right").mb-4 Nomenclatura en planos 
     
-    p En los esquemas eléctricos, a cada símbolo que identifica un dispositivo, se le asigna un nombre en el grupo, en los otros documentos relacionados con el sistema y en el propio dispositivo (como una etiqueta adhesiva) después de la instalación en campo. Hay muchas formas de elegir un nombre y el diseño describe dos usos muy comunes.
+    p.mb-4 En los esquemas eléctricos, a cada símbolo que identifica un dispositivo, se le asigna un nombre en el grupo, en los otros documentos relacionados con el sistema y en el propio dispositivo (como una etiqueta adhesiva) después de la instalación en campo. Hay muchas formas de elegir un nombre, el diseño describe dos usos muy comunes, como se muestra a continuación:
 
     .row.justify-content-center.mb-4
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
@@ -104,7 +101,7 @@
       
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
       h5 Tabla 1
-      span Clases para la nomenclatura
+      span #[i Clases para la nomenclatura]
     
     .tabla-a.color-acento-contenido(data-aos="zoom-in")
       table

@@ -183,7 +183,7 @@ export default {
     },
     {
       referencia:
-        'Cediel, P. (2009 ). Coordinación de protecciones. Schneider Electric. Recuperado de:',
+        'Cediel, P. (2009 ). Coordinación de protecciones. <em>Schneider Electric</em>. Recuperado de:',
       link: 'https://docplayer.es/2752298-Coordinacion-de-protecciones-bt.html',
     },
     {
@@ -205,9 +205,8 @@ export default {
     },
     {
       referencia:
-        'Torres B. M. (2014 ) Tecnología por proyectos. Xunta de Galicia.  Recuperado de:',
-      link:
-        'https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1464947843/contido/315_elementos_de_proteccin.html',
+        'Torres B. M. (2014 ) Tecnología por proyectos. Xunta de Galicia.',
+      link: '',
     },
   ],
   creditos: {

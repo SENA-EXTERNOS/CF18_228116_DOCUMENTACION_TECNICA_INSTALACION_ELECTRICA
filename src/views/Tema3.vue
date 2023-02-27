@@ -29,7 +29,7 @@
             p No superar la máxima posible entre el inicio de la instalación y el punto más lejano.
             p.mb-0 <span style="color: #0B5999">#[b  Nota]</span>: en algunos casos también es necesario calcular la sección para tensión de cortocircuito.
           div(titulo="Explicación")
-            p Cada país tiene su propia normativa de baja tensión, en España es el REBT, en Argentina es la normativa de instalaciones eléctricas en inmuebles, en Chile Nch: cifras de consumidores de baja tensión, en Perú y Venezuela, código eléctrico nacional, en México norma oficial mexicana (NOM) y código eléctrico approval, en los Estados Unidos NEC (National Electrical Code), <span style="color: #0B5999">#[b entre otros (Sectoriales, 2002)]</span>.
+            p Cada país tiene su propia normativa de baja tensión, en España es el REBT, en Argentina es la normativa de instalaciones eléctricas en inmuebles, en Chile Nch: cifras de consumidores de baja tensión, en Perú y Venezuela, código eléctrico nacional, en México norma oficial mexicana (NOM) y código eléctrico #[i approval], en los Estados Unidos NEC (#[i National Electrical Code]), <span style="color: #0B5999">#[b entre otros (Sectoriales, 2002)]</span>.
             p.mb-0 <span style="color: #0B5999">#[b  Nota importante]</span>: si se tiene un circuito protegido por un pequeño interruptor automático (PIA) u otro elemento protector, se debe calcular las <span style="color: #0B5999">#[b secciones para las corrientes de corte del elemento protector, no de la tensión resultante del rendimiento esperado de la salida del circuito].</span>
           div(titulo="Primera condición")
             p Condición térmica. Voltaje y calor en los cables.

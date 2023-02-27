@@ -15,15 +15,15 @@
         h3(data-aos="fade-right").mb-4 Tipo de planos eléctricos
         .cajon.color-acento-contenido.p-4(data-aos="flip-up")
           p.mb-0 A continuación, se describen los tipos de planos eléctricos:
-      .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src="@/assets/curso/tema1/img01.png")
+      .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+        img(src="@/assets/curso/tema1/img01.svg")
       
     .BGR01.p-4.mb-4(data-aos="zoom-in")
       SlyderA(tipo="b")
         .row.justify-content-center.mb-4
           .col-lg-6.order-lg-1.order-2
             .h4 Alimentación general
-            p.mb-0 Estos dibujos describen la fuente de alimentación y cualquier circuito adicional derivado de ella. Estos caminos alimentan los diversos componentes eléctricos y de control que componen el sistema representado. Estos planos incluyen transformadores, interruptores, fusibles, dispositivos de protección magnética (breakers), fuentes de alimentación, cables de alimentación trifásicos, entre otros.
+            p.mb-0 Estos dibujos describen la fuente de alimentación y cualquier circuito adicional derivado de ella. Estos caminos alimentan los diversos componentes eléctricos y de control que componen el sistema representado. Estos planos incluyen transformadores, interruptores, fusibles, dispositivos de protección magnética (#[i breakers]), fuentes de alimentación, cables de alimentación trifásicos, entre otros.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img02.png")
         .row.justify-content-center.mb-4
@@ -35,7 +35,7 @@
         .row.justify-content-center.mb-4
           .col-lg-4.order-lg-1.order-2
             .h4 Planos de entrada y salidas
-            p.mb-0 En sistemas con controladores como los programmable logic controller (PLC), un conjunto contiene planos de entrada y salida. Las capas de entrada representan las conexiones desde el campo hasta el controlador, normalmente botones, selectores y contactos. En las fotos originales se pueden ver las conexiones que van del controlador al campo, generalmente las bobinas y las luces indicadoras.
+            p.mb-0 En sistemas con controladores como los #[i programmable logic controller] (PLC), un conjunto contiene planos de entrada y salida. Las capas de entrada representan las conexiones desde el campo hasta el controlador, normalmente botones, selectores y contactos. En las fotos originales se pueden ver las conexiones que van del controlador al campo, generalmente las bobinas y las luces indicadoras.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img04.png")
         .row.justify-content-center.mb-4
@@ -144,10 +144,7 @@
             td(style="background-color: #FFF;").text-center H.
             td(style="background-color: #FFF;") Equipos de señalización.
             td(style="background-color: #FFF;") Aparatos de señalización ópticos y acústicos.
-          tr
-            td(style="background-color: #F6F6F6;").text-center J.
-            td(style="background-color: #F6F6F6;") —
-            td(style="background-color: #F6F6F6;") —
+
           tr
             td(style="background-color: #FFF;").text-center K.
             td(style="background-color: #FFF;") Relés, contactores.

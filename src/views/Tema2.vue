@@ -17,7 +17,7 @@
         .BG04.p-4
           p.mb-0 La condición climática de las estructuras solares pasivas tiene en cuenta la lluvia, el sol y situaciones adversas en el entorno construido. Cada vez se planifican más edificaciones de bajo consumo energético, porque reduce el uso de electricidad y mejora los costos. Los edificios bioclimáticos aprovechan el poder del clima para transformar energía gratuita, ilimitada y renovable. Las percepciones sobre el consumo de energía en los edificios están cambiando, de esta manera, la forma en que se diseñan y construye también debe cambiar, es decir que, cuanto más autosuficientes sean las construcciones, mejor se adaptarán a las próximas décadas, en las cuales los costes de los recursos no renovables aumentarán.
 
-    separador
+    
     h3(data-aos="fade-right").mb-4 Tipo de arquitectura
     
     p.mb-5 Los sistemas eléctricos son circuitos cerrados que se utilizan para transmitir energía, para realizar diversos procesos, tareas y actividades. Aunque existen diferentes tipos de aparatos eléctricos según el voltaje o el uso, todos coinciden en que su principal función, que es la de transferir electricidad desde los elementos generadores a los consumidores. A continuación, se explican las diferencias entre estos tipos de instalación:
@@ -61,7 +61,7 @@
                   span 5
                 p.mb-0 #[b Puntos consumidores]: son los receptores finales de energía y los encargados de convertirla en otro tipo, como luminosa, térmica o mecánica, entre otras.
       
-    separador
+    
     h3(data-aos="fade-right").mb-4 Clasificación red eléctrica
     
     p Las redes eléctricas se dividen en:
@@ -80,7 +80,7 @@
           div(titulo="Red secundaria")
             p.mb-0 Se compone de líneas aéreas o subestaciones de 15 kV., y 20 kV., centros de maniobra de media a baja tensión (MT/BT), líneas de baja tensión (BT) o subterráneas. Una red de distribución secundaria puede estar dedicada a un solo usuario o compartida por múltiples.
 
-    separador
+    
     h3(data-aos="fade-right").mb-4 Herramientas eléctricas
     
     .cajon-b.cajon-end.color-acento-contenido.p-3.mb-4(data-aos="fade-right")
@@ -91,7 +91,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Ke1tA_dxmrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    separador
+    
     h3(data-aos="fade-right").mb-4 Equipos de redes eléctricas
     
     p Ahora, lo invitamos a conocer a detalle, algunos de los equipos de redes eléctricas:

@@ -13,7 +13,7 @@
       .col-lg-8.BG05.img-02.p-4(data-aos="fade-left")
         p.mb-0 Un circuito es una serie de elementos conectados a través de los cuales puede circular una corriente eléctrica. Este es el movimiento de electrones, que debe formar el paso a través de sus elementos. Si la corriente es un circuito cerrado, solo hay un paso a través de la cadena. Siempre son cerrados, aunque en algún momento se puede abrir para interrumpir el flujo de corriente con un interruptor, botón u otro elemento del circuito.
 
-    separador
+    
     h3(data-aos="fade-right").mb-4 Cálculos eléctricos
     
     p Los hilos o cables eléctricos en instalaciones deben cumplir con dos reglas o condiciones que determinan su sección transversal:
@@ -29,8 +29,11 @@
             p No superar la máxima posible entre el inicio de la instalación y el punto más lejano.
             p.mb-0 <span style="color: #0B5999">#[b  Nota]</span>: en algunos casos también es necesario calcular la sección para tensión de cortocircuito.
           div(titulo="Explicación")
-            p Cada país tiene su propia normativa de baja tensión, en España es el REBT, en Argentina es la normativa de instalaciones eléctricas en inmuebles, en Chile Nch: cifras de consumidores de baja tensión, en Perú y Venezuela, código eléctrico nacional, en México norma oficial mexicana (NOM) y código eléctrico #[i approval], en los Estados Unidos NEC (#[i National Electrical Code]), <span style="color: #0B5999">#[b entre otros (Sectoriales, 2002)]</span>.
-            p.mb-0 <span style="color: #0B5999">#[b  Nota importante]</span>: si se tiene un circuito protegido por un pequeño interruptor automático (PIA) u otro elemento protector, se debe calcular las <span style="color: #0B5999">#[b secciones para las corrientes de corte del elemento protector, no de la tensión resultante del rendimiento esperado de la salida del circuito].</span>
+            p Cada país tiene su propia normativa de baja tensión, en España es el REBT, en Argentina es la normativa de instalaciones eléctricas en inmuebles, en Chile Nch: cifras de consumidores de baja tensión, en Perú y Venezuela, código eléctrico nacional, en los Estados Unidos NEC (National Electrical Code), entre otros (Sectoriales, 2002).
+              br
+              |Para Colombia, la norma colombiana que regula todas las redes en MT y BT es el RETIE (Reglamento Técnico de Instalaciones Eléctricas), aplicado con la NTC 2050, y  son de estricto cumplimiento en cualquier tipo de instalación.
+              br
+              |Nota importante: si se tiene un circuito protegido por un pequeño interruptor automático (PIA) u otro elemento protector, se debe calcular las secciones para las corrientes de corte del elemento protector, no de la tensión resultante del rendimiento esperado de la salida del circuito.
           div(titulo="Primera condición")
             p Condición térmica. Voltaje y calor en los cables.
             p El efecto #[i Joule] calienta los cables y receptores cuando pasa una corriente a través de ellos. Cuando se quiere transmitir o distribuir energía eléctrica, todo lo que se convierte en calor a través de este efecto es una pérdida y también puede hacer que se sobrecalienten y dañen permanentemente o incluso quemar su aislamiento y provocar un incendio. Es posible que el calor no sea peligroso todo el tiempo, pero cuando se acumula lo es, ya que, al exponerse los aisladores a estas temperaturas, pierden parte de su capacidad aislante y envejecen rápidamente, haciéndolos quebradizos y casi inútiles. Esto ocurre porque los cables tienen resistencia eléctrica, que se opone al flujo de corriente a través de ellos y se convierte en parte de la energía que los electrones convierten en calor y por lo tanto en pérdida a medida que viajan a través del conductor.
@@ -43,7 +46,7 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 A continuación, se describe una pérdida, esta se puede expresar como pérdida de potencia de línea (PpL) y aumenta lógicamente con la resistencia del conductor:<br>Si <span style="color: #0B5999">#[b potencia = V x I]</span>; y según la ley de Ohm <span style="color: #0B5999">#[b V = I x R]</span>.<br>Sustituyendo la fórmula de la potencia V según la ley de Ohm se obtiene: <span style="color: #0B5999">#[b Potencia = R x I2]</span>, usando esta fórmula para calcular la distribución de potencia anterior: <br><span style="color: #0B5999">#[b PpL = RL x I2]</span>.<br>Donde PpL = potencia distribuida en la línea, RL es la resistencia de la línea, I es la corriente que circula por ella. <br>No es posible modificar la tensión que circula por la línea, ya que es absorbida por los receptores. Por tanto, si se quiere conseguir bajas pérdidas y evitar este efecto nocivo del calor, se debe reducir la resistencia de los conductores.
 
-    separador
+    
     h3(data-aos="fade-right").mb-4 Normas de seguridad
     
     p Normas de seguridad e higiene: la electricidad significa progreso y bienestar, por lo que la intervención directa o indirecta, es ahora parte integral de todas las actividades, ya sean domésticas o industriales; pero también un peligro para las personas y sus bienes si no se dispone de los conocimientos o recursos necesarios para utilizarlos adecuadamente. En este caso, se ofrece a continuación una serie de medidas preventivas generales, relacionadas con los riesgos eléctricos que son más habituales en el entorno laboral y afectan a cualquiera que trabaje en él. Estas normas son importantes para prevenir accidentes, ya que implica riesgos, por lo que se debe conocer las normas básicas de seguridad y aplicarlas siempre. A continuación, se repasan las reglas básicas de este tipo de trabajo.
@@ -115,7 +118,6 @@
         .cajon.color-acento-contenido.p-4(data-aos="flip-up")
           p.mb-0 Usa tus herramientas con responsabilidad. Afortunadamente, hoy en día hay todo tipo de herramientas disponibles, pero a veces se usan para fines que no fueron diseñadas. Trabaje con un conjunto completo de herramientas y no corra riesgos.
 
-    separador
     h3(data-aos="fade-right").mb-4 Tipo de cableado eléctrico
     
     p Existen muchos tipos de cables eléctricos a la venta, a continuación, se muestran los tipos principales y más comunes:
@@ -161,7 +163,7 @@
       .col-lg-10
         img(src="@/assets/curso/tema3/img15.svg")
     
-    separador
+    
     h3(data-aos="fade-right").mb-4 Funcionamiento de tableros eléctricos
     
     p.mb-5 Los tableros son los encargados de proteger los componentes de comando y control de todos los sistemas eléctricos, desde un simple circuito doméstico hasta una máquina industrial. En estos pueden concentrarse dispositivos de conexión, maniobra, protección, que permiten que el sistema funcione en óptimas condiciones. Estas plantas deben contar con un conjunto de normas que garanticen un correcto funcionamiento y un adecuado suministro de energía. Esto significa que la seguridad de los dispositivos con placa de circuito industrial puede garantizarse si la distribución de corriente es correcta.
@@ -219,7 +221,7 @@
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema3/img23.jpg")
 
-    separador
+    
     h3(data-aos="fade-right").mb-4 Trazado línea eléctrica
     
     .row.justify-content-center.mb-4

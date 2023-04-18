@@ -9,7 +9,7 @@
     
     p Un plano eléctrico es un dibujo de varios esquemas que organizan y definen una instalación eléctrica, detallando las características de los materiales y equipos disponibles, este se puede representar en uno o en más niveles. Para representarlos, es posible utilizar diferentes tipos de diseños eléctricos prescritos y estandarizados, estos, se entienden como un conjunto de conexiones eléctricas y relaciones correspondientes a través de símbolos de componentes del sistema eléctrico. En la elaboración de un plano o un esquema se suelen utilizar símbolos y figuras, así como marcas o referencias.
 
-    separador 
+     
     .row.justify-content-around.mb-4
       .col-lg-7.order-lg-1.order-2
         h3(data-aos="fade-right").mb-4 Tipo de planos eléctricos
@@ -74,7 +74,7 @@
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img10.png")
             
-    separador 
+     
     h3(data-aos="fade-right").mb-4 Clasificación de símbolos
 
     .row.justify-content-center.mb-4
@@ -84,7 +84,7 @@
       .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img11.png")
 
-    separador 
+   
     h3(data-aos="fade-right").mb-4 Nomenclatura en planos 
     
     p.mb-4 En los esquemas eléctricos, a cada símbolo que identifica un dispositivo, se le asigna un nombre en el grupo, en los otros documentos relacionados con el sistema y en el propio dispositivo (como una etiqueta adhesiva) después de la instalación en campo. Hay muchas formas de elegir un nombre, el diseño describe dos usos muy comunes, como se muestra a continuación:

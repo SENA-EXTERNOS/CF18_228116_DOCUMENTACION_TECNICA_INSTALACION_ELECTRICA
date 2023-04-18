@@ -101,6 +101,7 @@
       
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
       h5 Tabla 1
+      br
       span #[i Clases para la nomenclatura]
     
     .tabla-a.color-acento-contenido(data-aos="zoom-in")
@@ -121,88 +122,80 @@
             td(style="background-color: #FFF;") Convertidores de magnitudes no eléctricas a magnitudes eléctricas y, al contrario.
             td(style="background-color: #FFF;") Transductores, sondas termoeléctricas, termo células, células fotoeléctricas, dinamómetros, cristales piezoeléctricos, micrófonos, pick-up, altavoces, aparatos de campo giratorio.
           tr
-            td(style="background-color: #F6F6F6;").text-center C.
-            td(style="background-color: #F6F6F6;") Condensadores.
-            td(style="background-color: #F6F6F6;") 
-          tr
-            td(style="background-color: #FFF;").text-center D.
+            td(style="background-color: #FFF;").text-center C.
             td(style="background-color: #FFF;") Dispositivos de retardo, de memoria, elementos binarios.
             td(style="background-color: #FFF;") Conductores de retardo, elementos biestables, elementos monoestables, memorias de núcleos, registradores, memorias de discos, aparatos de cintas magnéticas.
           tr
-            td(style="background-color: #F6F6F6;").text-center E.
+            td(style="background-color: #F6F6F6;").text-center D.
             td(style="background-color: #F6F6F6;") Diversos.
             td(style="background-color: #F6F6F6;") Instalaciones de alumbrado, de calefacción; que no están indicadas en otro lugar de esta tabla.
           tr
-            td(style="background-color: #FFF;").text-center F.
+            td(style="background-color: #FFF;").text-center E.
             td(style="background-color: #FFF;") Dispositivo de protección.
             td(style="background-color: #FFF;") Fusibles, descargador de sobretensión, relés de protección, disparador.
           tr
-            td(style="background-color: #F6F6F6;").text-center G.
+            td(style="background-color: #F6F6F6;").text-center F.
             td(style="background-color: #F6F6F6;") Generadores.
             td(style="background-color: #F6F6F6;") Generadores rotativos, transformadores de frecuencia rotativos, baterías, equipos de alimentación, osciladores.
           tr
-            td(style="background-color: #FFF;").text-center H.
+            td(style="background-color: #FFF;").text-center G.
             td(style="background-color: #FFF;") Equipos de señalización.
             td(style="background-color: #FFF;") Aparatos de señalización ópticos y acústicos.
 
           tr
-            td(style="background-color: #FFF;").text-center K.
+            td(style="background-color: #FFF;").text-center H.
             td(style="background-color: #FFF;") Relés, contactores.
             td(style="background-color: #FFF;") Contactores de potencia, contactores auxiliares, relés auxiliares, relés intermitentes, relés de tiempo, relés Reed.
           tr
-            td(style="background-color: #F6F6F6;").text-center L.
+            td(style="background-color: #F6F6F6;").text-center I.
             td(style="background-color: #F6F6F6;") Inductividad.
             td(style="background-color: #F6F6F6;") Bobinas de reactancia.
           tr
-            td(style="background-color: #FFF;").text-center M.
-            td(style="background-color: #FFF;") Motores.
-            td(style="background-color: #FFF;") —
-          tr
-            td(style="background-color: #F6F6F6;").text-center N.
+            td(style="background-color: #F6F6F6;").text-center J.
             td(style="background-color: #F6F6F6;") Amplificadores, reguladores.
             td(style="background-color: #F6F6F6;") Circuitos integrados.
           tr
-            td(style="background-color: #FFF;").text-center P.
+            td(style="background-color: #FFF;").text-center K.
             td(style="background-color: #FFF;") Instrumentos de medición, equipos de pruebas.
             td(style="background-color: #FFF;") Instrumentos de medición, registradores y contadores, emisores de impulsos, relojes.
           tr
-            td(style="background-color: #F6F6F6;").text-center Q.
+            td(style="background-color: #F6F6F6;").text-center L.
             td(style="background-color: #F6F6F6;") Aparatos de maniobra para altas intensidades.
             td(style="background-color: #F6F6F6;") Interruptores de potencia, de protección, para protección de motores, automáticos, seccionadores, seccionadores bajo carga con fusibles.
           tr
-            td(style="background-color: #FFF;").text-center R.
+            td(style="background-color: #FFF;").text-center M.
             td(style="background-color: #FFF;") Resistencias.
             td(style="background-color: #FFF;") Resistencias, potenciómetros, reostatos, shunts, resistencias, en derivación, termistores.
           tr
-            td(style="background-color: #F6F6F6;").text-center S.
+            td(style="background-color: #F6F6F6;").text-center N.
             td(style="background-color: #F6F6F6;") Interruptores, selectores.
             td(style="background-color: #F6F6F6;") Pulsadores, interruptores de posición y de mando, conmutador, selector, selectores rotativos, adaptadores selectores, emisores de señales.
           tr
-            td(style="background-color: #FFF;").text-center T.
+            td(style="background-color: #FFF;").text-center R.
             td(style="background-color: #FFF;") Transformadores.
             td(style="background-color: #FFF;") Transformadores de tensión y de intensidad.
           tr
-            td(style="background-color: #F6F6F6;").text-center U.
+            td(style="background-color: #F6F6F6;").text-center S.
             td(style="background-color: #F6F6F6;") Moduladores, convertidores.
             td(style="background-color: #F6F6F6;") Discriminadores, convertidores de frecuencia, demoduladores, inversores, onduladores.
           tr
-            td(style="background-color: #FFF;").text-center V.
+            td(style="background-color: #FFF;").text-center T.
             td(style="background-color: #FFF;") Válvulas, semiconductores.
             td(style="background-color: #FFF;") Válvulas de vacío, de descarga en gases, diodos, transistores, tiristores.
           tr
-            td(style="background-color: #F6F6F6;").text-center W.
+            td(style="background-color: #F6F6F6;").text-center U.
             td(style="background-color: #F6F6F6;") Vías de conducción, guía ondas.
             td(style="background-color: #F6F6F6;") Hilos de conexión, cables, guía ondas, acoplamientos dirigidos por guía ondas, dipolos, antenas parabólicas.
           tr
-            td(style="background-color: #FFF;").text-center X.
+            td(style="background-color: #FFF;").text-center V.
             td(style="background-color: #FFF;") Bornes, clavijas, enchufes.
             td(style="background-color: #FFF;") Clavijas y cajas de enchufe, clavijas de pruebas, regletas de bornes, regletas de soldadura.
           tr
-            td(style="background-color: #F6F6F6;").text-center Y.
+            td(style="background-color: #F6F6F6;").text-center W.
             td(style="background-color: #F6F6F6;") Equipos eléctricos accionados mecánicamente.
             td(style="background-color: #F6F6F6;") Frenos, embragues, válvulas.
           tr
-            td(style="background-color: #FFF; border-bottom: 10px solid #0B5999").text-center Z.
+            td(style="background-color: #FFF; border-bottom: 10px solid #0B5999").text-center X.
             td(style="background-color: #FFF; border-bottom: 10px solid #0B5999") Equipos de compensación, filtros limitadores.
             td(style="background-color: #FFF; border-bottom: 10px solid #0B5999") Circuitos para imitación de cables, reguladores dinámicos, filtros de cristal.
       

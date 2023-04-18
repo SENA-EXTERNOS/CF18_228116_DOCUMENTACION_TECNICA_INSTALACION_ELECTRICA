@@ -46,7 +46,7 @@
     separador
     h3(data-aos="fade-right").mb-4 Normas de seguridad
     
-    p Normas de seguridad e higiene: la electricidad significa progreso y bienestar, por lo que la intervención directa o indirecta, es ahora parte integral de todas las actividades, ya sean domésticas o industriales; pero también un peligro para las personas y sus bienes si no se dispone de los conocimientos o recursos necesarios para utilizarlos adecuadamente. En este caso, se ofrece a continuación una serie de medidas preventivas generales, relacionadas con los riesgos eléctricos que son más habituales en el entorno laboral y afectan a cualquiera que trabaje en él. Estas normas son importantes para prevenir accidentes, ya que implica riesgos, por lo que se debe conocer las normas básicas de seguridad y aplicarlas siempre. En este artículo, se repasan las reglas básicas de este tipo de trabajo.
+    p Normas de seguridad e higiene: la electricidad significa progreso y bienestar, por lo que la intervención directa o indirecta, es ahora parte integral de todas las actividades, ya sean domésticas o industriales; pero también un peligro para las personas y sus bienes si no se dispone de los conocimientos o recursos necesarios para utilizarlos adecuadamente. En este caso, se ofrece a continuación una serie de medidas preventivas generales, relacionadas con los riesgos eléctricos que son más habituales en el entorno laboral y afectan a cualquiera que trabaje en él. Estas normas son importantes para prevenir accidentes, ya que implica riesgos, por lo que se debe conocer las normas básicas de seguridad y aplicarlas siempre. A continuación, se repasan las reglas básicas de este tipo de trabajo.
     p Las principales normas son:
 
     .row.justify-content-center.mb-4

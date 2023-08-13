@@ -174,47 +174,47 @@
 
     .row.justify-content-center.mb-4(data-aos="zoom-in")
       .col-lg-10
-        ImagenInfograficaB.color-secundario.mb-5
+        ImagenInfograficaB.color-secundario.mb-5.align-items-center
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema3/img16.svg')
-          .row.justify-content-center(x="20%" y="85%" tooltip="Centros de carga o de uso residencial" numero="1")
+          .row.m-auto.align-items-center.justify-content-center(x="20%" y="85%" tooltip="Centros de carga o de uso residencial" numero="1")
             .col-lg-8.order-lg-1.order-2
               .h4 Centros de carga o de uso residencial
               p.mb-0 Es un lugar donde se pueden conectar y desconectar todos los circuitos eléctricos de una casa. Se recomienda que un electricista certificado realice la instalación. 
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema3/img17.jpg")
-          .row.justify-content-center(x="8%" y="53%" tooltip="Celdas de seccionamiento" numero="2")
+          .row.m-auto.align-items-center.justify-content-center(x="8%" y="53%" tooltip="Celdas de seccionamiento" numero="2")
             .col-lg-8.order-lg-1.order-2
               .h4 Celdas de seccionamiento
               p.mb-0 Un centro de segmento es una instalación eléctrica que se compone principalmente de una serie de celdas y dispositivos de aislamiento y protección eléctrica. Su función es conectar la red eléctrica de la empresa a las instalaciones específicas a las que da servicio. 
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema3/img18.jpg")
-          .row.justify-content-center(x="20%" y="23%" tooltip="Centro de control de motores" numero="3")
+          .row.m-auto.align-items-center.justify-content-center(x="20%" y="23%" tooltip="Centro de control de motores" numero="3")
             .col-lg-8.order-lg-1.order-2
               .h4 Centro de control de motores
               p.mb-0 Los tableros eléctricos de control son soluciones esenciales a los desafíos de la ingeniería actual, implementando soluciones eficientes, flexibles y seguras. Se integran en gabinetes diseñados para diferentes tipos de ambientes, disponiendo dispositivos de protección, control, comunicación, medición y señalización para integrarse con funciones específicas y automatizar procesos industriales. 
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema3/img19.jpg")
-          .row.justify-content-center(x="51%" y="9%" tooltip="Centro de distribución de potencia" numero="4")
+          .row.m-auto.align-items-center.justify-content-center(x="51%" y="9%" tooltip="Centro de distribución de potencia" numero="4")
             .col-lg-8.order-lg-1.order-2
               .h4 Centro de distribución de potencia (PDU por sus siglas en inglés)
               p.mb-0 Tiene las ventajas de sintonización distribuida sin complejidad, y monitorear variables eléctricas. 
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema3/img20.jpg")
-          .row.justify-content-center(x="80%" y="23%" tooltip="Centro de fuerza" numero="5")
+          .row.m-auto.align-items-center.justify-content-center(x="80%" y="23%" tooltip="Centro de fuerza" numero="5")
             .col-lg-8.order-lg-1.order-2
               .h4 Centro de fuerza
               p.mb-0 El centro de carga es una placa metálica que soporta almohadillas termomagnéticas para protección y desconexión de pequeñas tensiones. Todos los edificios, independientemente de su orientación, requieren electricidad para alimentar sus luces y accesorios. 
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema3/img21.jpg")
-          .row.justify-content-center(x="92%" y="53%" tooltip="Alumbrado" numero="6")
+          .row.m-auto.align-items-center.justify-content-center(x="92%" y="53%" tooltip="Alumbrado" numero="6")
             .col-lg-8.order-lg-1.order-2
               .h4 Alumbrado
               p.mb-0 Un cable de alimentación es un elemento fabricado y diseñado para conducir electricidad. El principal material del que están hechos es el cobre (por su alta conductividad), pero también se utiliza aluminio, que es menos conductor, pero más económico que el cobre. 
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema3/img22.jpg")
-          .row.justify-content-center(x="80%" y="85%" tooltip="Subestaciones" numero="7")
+          .row.m-auto.align-items-center.justify-content-center(x="80%" y="85%" tooltip="Subestaciones" numero="7")
             .col-lg-8.order-lg-1.order-2
               .h4 Subestaciones
               p.mb-0 Es una obra encargada de realizar conversiones de tensión, frecuencia, número de fases o enlace de dos o más circuitos eléctricos. Pueden estar cerca de centrales eléctricas, en las afueras de las áreas de consumo, o en el exterior e interior de los edificios. 

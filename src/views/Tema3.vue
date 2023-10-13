@@ -29,7 +29,7 @@
             p No superar la máxima posible entre el inicio de la instalación y el punto más lejano.
             p.mb-0 <span style="color: #0B5999">#[b  Nota]</span>: en algunos casos también es necesario calcular la sección para tensión de cortocircuito.
           div(titulo="Explicación")
-            p Cada país tiene su propia normativa de baja tensión, en España es el REBT, en Argentina es la normativa de instalaciones eléctricas en inmuebles, en Chile Nch: cifras de consumidores de baja tensión, en Perú y Venezuela, código eléctrico nacional, en los Estados Unidos NEC (National Electrical Code), entre otros (Sectoriales, 2002).
+            p Cada país tiene su propia normativa de baja tensión, en España es el REBT, en Argentina es la normativa de instalaciones eléctricas en inmuebles, en Chile Nch: cifras de consumidores de baja tensión, en Perú y Venezuela, código eléctrico nacional, en México norma oficial mexicana (NOM) y código eléctrico #[em approval] en los Estados Unidos NEC (National Electrical Code), entre otros (Sectoriales, 2002).
               br
               |Para Colombia, la norma colombiana que regula todas las redes en MT y BT es el RETIE (Reglamento Técnico de Instalaciones Eléctricas), aplicado con la NTC 2050, y  son de estricto cumplimiento en cualquier tipo de instalación.
               br
@@ -118,7 +118,7 @@
         .cajon.color-acento-contenido.p-4(data-aos="flip-up")
           p.mb-0 Usa tus herramientas con responsabilidad. Afortunadamente, hoy en día hay todo tipo de herramientas disponibles, pero a veces se usan para fines que no fueron diseñadas. Trabaje con un conjunto completo de herramientas y no corra riesgos.
 
-    h3(data-aos="fade-right").mb-4 Tipo de cableado eléctrico
+    h3(data-aos="fade-right").mb-4 Tipos de cableado eléctrico
     
     p Existen muchos tipos de cables eléctricos a la venta, a continuación, se muestran los tipos principales y más comunes:
 

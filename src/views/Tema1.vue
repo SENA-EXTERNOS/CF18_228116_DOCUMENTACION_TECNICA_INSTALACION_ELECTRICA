@@ -12,7 +12,7 @@
      
     .row.justify-content-around.mb-4
       .col-lg-7.order-lg-1.order-2
-        h3(data-aos="fade-right").mb-4 Tipo de planos eléctricos
+        h3(data-aos="fade-right").mb-4 Tipos de planos eléctricos
         .cajon.color-acento-contenido.p-4(data-aos="flip-up")
           p.mb-0 A continuación, se describen los tipos de planos eléctricos:
       .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")

@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    p Estimado aprendiz, bienvenido al desarrollo de este componente, el cual está diseñado para que aprenda fortalezca sus conocimientos sobre esta área. También para entender cómo se ensamblan los cables eléctricos, tipos existentes, sus características y usos. A su vez, se asociará la reglamentación acerca del marco normativo y legal que regula el trabajo sobre los aparatos eléctricos.
+    p Estimado aprendiz, bienvenido al desarrollo de este componente, el cual está diseñado para que fortalezca sus conocimientos sobre esta área. También para entender cómo se ensamblan los cables eléctricos, tipos existentes, sus características y usos. A su vez, se asociará la reglamentación acerca del marco normativo y legal que regula el trabajo sobre los aparatos eléctricos.
     
     .row.justify-content-center.mb-4
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
